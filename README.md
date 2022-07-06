@@ -1,0 +1,3 @@
+Work proposed on Data Mining subject by professor and Ph.D [Claudia Martins](http://lattes.cnpq.br/0252766947347684) to choose a competition from [Kaggle](https://www.kaggle.com/competitions) and explore the database, presenting a solution.
+
+This work was made by [Gabriel de Sousa](https://github.com/SousaPedroso), [Henrique de Freitas](https://github.com/henriquedefreitas) and [Henrique de Oliveira](https://github.com/HenriqueOPeixoto).
